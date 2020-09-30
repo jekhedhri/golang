@@ -2,12 +2,6 @@
 
 to run 
 
-go run main.go -env local -ui cli  -infra api
-
-where 
-
-  -env local or staging or prod
-  -ui cli or api
-  -infra cli or api
+go run main.go -env [local OR staging OR prod] -ui [api OR cli] -infra [api OR db]
 
 
