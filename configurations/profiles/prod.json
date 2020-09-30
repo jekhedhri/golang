@@ -1,0 +1,17 @@
+{
+    "NAME": "My App",
+    "DESCRIPTION": "My App is GoLang template",
+    "AUTHOR": "jekhedhri@figarocms.fr",
+    "COMPANY": "FCSM",
+    "VERSION": "1.0.0",
+    "ENV": "prod",
+    "PORT": 8080,
+    "DB": {
+      "HOST": "127.0.0.1",
+      "DRIVER": "mysql",
+      "USER": "root",
+      "PASSWORD": "root",
+      "NAME": "tuto",
+      "PORT": 3306
+    }
+  }

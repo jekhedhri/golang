@@ -1,0 +1,20 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Clavier",
+        "price": "13.5"
+      },
+      {
+        "id": 2,
+        "name": "PC",
+        "price": "1543.99"
+      },
+      {
+        "id": 3,
+        "name": "Casque",
+        "price": "45.39"
+      }
+    ]
+  }
+  

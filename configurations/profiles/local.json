@@ -1,0 +1,18 @@
+{
+    "name": "My App",
+    "description": "My App is GoLang template",
+    "author": "jekhedhri@figarocms.fr",
+    "company": "FCSM",
+    "version": "1.0.0",
+    "env": "local",
+    "port": "8090",
+    "dbhost": "127.0.0.1",
+    "dbdriver": "mysql",
+    "dbuser": "root",
+    "dbpassword": "root",
+    "dbname": "tuto",
+    "dbport": "3306",
+    "dbmode" : "drop-create",
+    "mockBaseURL" : "http://localhost:",
+    "mockPort" : "3000"
+  }
